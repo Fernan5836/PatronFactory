@@ -1,0 +1,7 @@
+1. Los patrones Factory Method y Abstract Factory:
+Estos patrones de diseño mejoran la forma en que se crean los objetos en comparación con otros métodos.
+Proporcionan una manera de encapsular el proceso de creación de objetos.
+
+2. Una de las ventajas de estos patrones es que mejoran la flexibilidad y la facilidad de mantenimiento del código.
+Por ejemplo, el uso del patrón Factory Method permite incorporar una capa de abstracción en la creación de objetos, lo que
+simplifica la adición de nuevos tipos de productos sin necesidad de cambiar el código ya existente.
